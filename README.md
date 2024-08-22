@@ -27,4 +27,4 @@ Included in this repo:
 - **train_task.py** - Mediapipe's method of training a model from images.
 
 Example of Program used to write Hello World:
-<video src="ASL_Detection_example.mp4" width="320" height="240" controls></video>
+<video src="https://github.com/user-attachments/assets/30ae5c6d-c4ef-49b6-b7d4-c4153a432ed0" width="320" height="240" controls></video>
