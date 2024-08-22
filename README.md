@@ -27,5 +27,5 @@ Space:
 - **train_task.py** - Mediapipe's method of training a model from images.
 - **requirements.txt** - Requirements for python enviroment.
 
-## Example of Program used to write Hello World:
+## Example of program used to write Hello World:
 <video src="https://github.com/user-attachments/assets/30ae5c6d-c4ef-49b6-b7d4-c4153a432ed0" width="320" height="240" controls></video>
