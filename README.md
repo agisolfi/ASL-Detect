@@ -10,13 +10,13 @@ A dataset of close to 3,000 images of hand gestures was created. This dataset wa
 **Note:** The program follows conventional ASL gestures with the exception of "J" and "Z" as they involve the tracking of a moving gesture which was outside the scope of this project. To resolve this issue, custom gestures were made for this letters:
 
 J:
-    ![J](ASL_Gesture_examples\J.jpg)
+![J](ASL_Gesture_examples/J.jpg)
 
 Z: 
-![Z](ASL_Gesture_examples\Z.jpg)
+![Z](ASL_Gesture_examples/Z.jpg)
 
 Space:
-![Space](ASL_Gesture_examples\Space.jpg)
+![Space](ASL_Gesture_examples/Space.jpg)
 
 
 Included in this repo:
