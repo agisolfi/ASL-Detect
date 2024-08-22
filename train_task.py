@@ -2,7 +2,7 @@ import matplotlib.pyplot as plt
 import os
 
 NUM_EXAMPLES = 5
-IMAGES_PATH = "./ASL"
+IMAGES_PATH = "path/to/Images"
 
 # Get the list of labels from the list of folder names.
 labels = []
